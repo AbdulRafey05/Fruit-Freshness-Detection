@@ -46,8 +46,8 @@ The model predicts 6 classes:
 
 | Metric | Value |
 |---|---|
-| Test accuracy | **88.24%** (34 test images) |
-| Validation accuracy | 100% (19 validation images) |
+| Test accuracy | **88.24%** |
+| Validation accuracy | 100% |
 
 ![Training curves](docs/training-curves.png)
 
