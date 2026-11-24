@@ -1,0 +1,6 @@
+tensorflow
+split-folders
+matplotlib
+numpy
+pillow
+gradio

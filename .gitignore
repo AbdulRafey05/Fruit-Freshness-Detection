@@ -1,0 +1,19 @@
+# Dataset and model files
+Fruit_dataset.zip
+dataset_raw/
+dataset_balanced/
+dataset_final_split/
+temp_all_classes/
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
