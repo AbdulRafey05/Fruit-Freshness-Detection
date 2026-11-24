@@ -103,7 +103,7 @@ Python · TensorFlow / Keras · MobileNetV2 · NumPy · Matplotlib · split-fold
 ## Author
 
 **Muhammad Abdul Rafey Yashir**
-BS Artificial Intelligence, Sindh Madressatul Islam University
+Artificial Intelligence, Sindh Madressatul Islam University
 [LinkedIn](https://www.linkedin.com/in/abdulrafeyyashir) · [Portfolio](https://abdulrafey05.github.io/Portfolio/)
 
 ## License
